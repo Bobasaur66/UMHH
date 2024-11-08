@@ -1,2 +1,3 @@
-﻿  Main.cpp
-  UMHH.vcxproj -> C:\Users\Aaron\Documents\GitHub\UMHH\x64\Debug\UMHH.exe
+﻿  MainProgram.cpp
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Aaron\Documents\GitHub\UMHH\x64\Debug\UMHH.exe : fatal error LNK1120: 1 unresolved externals
